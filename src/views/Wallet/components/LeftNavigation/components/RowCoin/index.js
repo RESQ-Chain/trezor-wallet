@@ -36,6 +36,7 @@ const RowCoinWrapper = styled.div`
 const Left = styled.div`
     display: flex;
     justify-content: space-between;
+    padding-top: 1px;
     align-items: center;
 `;
 
